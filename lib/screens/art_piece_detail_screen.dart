@@ -2,7 +2,6 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import '../models/art_piece.dart';
-import 'art_piece_edit_screen.dart';
 import '../repository/art_piece_repository.dart';
 
 class ArtPieceDetailScreen extends StatelessWidget {
